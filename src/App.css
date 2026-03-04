@@ -57,3 +57,30 @@
   max-width: 600px;
   margin: 0 auto 25px;
 }
+
+.footer {
+  width: 100%;
+  margin-top: auto;
+  background: #2a66f5;
+  color: #fff;
+  padding: 22px 12px;
+  text-align: center;
+}
+
+.footer__title {
+  margin: 0;
+  font-weight: 700;
+  letter-spacing: 0.3px;
+}
+
+.footer__subtitle {
+  margin: 6px 0 0;
+  font-size: 0.95rem;
+  opacity: 0.9;
+}
+
+.app {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}

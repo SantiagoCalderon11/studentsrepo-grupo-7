@@ -3,13 +3,13 @@
 ##  Descripción del Proyecto
 Este es nuestro primer avance del proyecto, configurado con **Vite** y **React**. El objetivo es establecer una arquitectura profesional, un sistema de navegación base (Layout) y un flujo de trabajo colaborativo en GitHub.
 
-## 🛠️ Requisitos Técnicos (Versiones)
+## Requisitos Técnicos (Versiones)
 Para ejecutar este proyecto sin errores, asegúrate de tener instalado:
 * **Node.js**: v20.x o superior
 * **NPM**: v10.x o superior
 * **Vite**: v6.x
 
-## 💻 Pasos para la Instalación Local
+## Pasos para la Instalación Local
 Sigue estos comandos en tu terminal para configurar el entorno:
 
 1. **Clonar el repositorio:**
